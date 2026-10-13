@@ -1,4 +1,10 @@
-= 4T
+= Topological Tic Tac Toe
+:!showtitle:
+:imagesdir: assets/images
+
+image::logo.svg[width=33%]
+
+= *{doctitle}*
 
 4T (Topological Tic Tac Toe) is a program to play a generalized version of tic
 tac toe. It was built for a coding competition among friends, but, depending on
